@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\TowerDefense\\SysProgram\\SusPog\\SusPog\\SusPog.csproj",
-      "projectName": "SusPog",
-      "projectPath": "D:\\School\\TowerDefense\\SysProgram\\SusPog\\SusPog\\SusPog.csproj",
+      "projectUniqueName": "D:\\School\\TowerDefense\\SysProgram\\Sprites\\SpriteStuff\\SpriteStuff\\SpriteStuff.csproj",
+      "projectName": "SpriteStuff",
+      "projectPath": "D:\\School\\TowerDefense\\SysProgram\\Sprites\\SpriteStuff\\SpriteStuff\\SpriteStuff.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\TowerDefense\\SysProgram\\SusPog\\SusPog\\obj\\",
+      "outputPath": "D:\\School\\TowerDefense\\SysProgram\\Sprites\\SpriteStuff\\SpriteStuff\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

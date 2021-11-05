@@ -23,7 +23,7 @@ namespace SusPog
 
     class enemy
     {
-        public static float Health = 20;
+        public float Health = 20;
 
         public static void takeDamage(int damageAmount) {
             Health -= damageAmount;
