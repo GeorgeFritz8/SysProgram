@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\SusPog\SusPog\bin\Debug\netcoreapp3.1\SusPog.exe
+C:\Users\georg\source\repos\SusPog\SusPog\bin\Debug\netcoreapp3.1\SusPog.deps.json
+C:\Users\georg\source\repos\SusPog\SusPog\bin\Debug\netcoreapp3.1\SusPog.runtimeconfig.json
+C:\Users\georg\source\repos\SusPog\SusPog\bin\Debug\netcoreapp3.1\SusPog.runtimeconfig.dev.json
+C:\Users\georg\source\repos\SusPog\SusPog\bin\Debug\netcoreapp3.1\SusPog.dll
+C:\Users\georg\source\repos\SusPog\SusPog\bin\Debug\netcoreapp3.1\SusPog.pdb
+C:\Users\georg\source\repos\SusPog\SusPog\obj\Debug\netcoreapp3.1\SusPog.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\SusPog\SusPog\obj\Debug\netcoreapp3.1\SusPog.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\SusPog\SusPog\obj\Debug\netcoreapp3.1\SusPog.AssemblyInfo.cs
+C:\Users\georg\source\repos\SusPog\SusPog\obj\Debug\netcoreapp3.1\SusPog.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\SusPog\SusPog\obj\Debug\netcoreapp3.1\SusPog.dll
+C:\Users\georg\source\repos\SusPog\SusPog\obj\Debug\netcoreapp3.1\SusPog.pdb
+C:\Users\georg\source\repos\SusPog\SusPog\obj\Debug\netcoreapp3.1\SusPog.genruntimeconfig.cache
