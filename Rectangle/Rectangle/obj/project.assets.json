@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\TowerDefense\\Sys\\Rectangle\\Rectangle\\Rectangle.csproj",
+      "projectUniqueName": "D:\\School\\TowerDefense\\SysProgram\\Rectangle\\Rectangle\\Rectangle.csproj",
       "projectName": "Rectangle",
-      "projectPath": "D:\\School\\TowerDefense\\Sys\\Rectangle\\Rectangle\\Rectangle.csproj",
+      "projectPath": "D:\\School\\TowerDefense\\SysProgram\\Rectangle\\Rectangle\\Rectangle.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\TowerDefense\\Sys\\Rectangle\\Rectangle\\obj\\",
+      "outputPath": "D:\\School\\TowerDefense\\SysProgram\\Rectangle\\Rectangle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

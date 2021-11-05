@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace Inheritance
+
+namespace SysProg
 {
     class Program
     {

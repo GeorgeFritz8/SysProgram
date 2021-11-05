@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "D:\\School\\TowerDefense\\SysProgram\\Inheritance\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\Inheritance\\Inheritance\\Inheritance.csproj",
+      "projectPath": "D:\\School\\TowerDefense\\SysProgram\\Inheritance\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\Inheritance\\Inheritance\\obj\\",
+      "outputPath": "D:\\School\\TowerDefense\\SysProgram\\Inheritance\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",

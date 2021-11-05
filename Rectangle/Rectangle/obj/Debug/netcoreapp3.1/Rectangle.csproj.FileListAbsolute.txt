@@ -2,3 +2,16 @@ D:\School\TowerDefense\Sys\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle
 D:\School\TowerDefense\Sys\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
 D:\School\TowerDefense\Sys\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
 D:\School\TowerDefense\Sys\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csprojAssemblyReference.cache
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.exe
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.deps.json
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.json
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.dev.json
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.dll
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.pdb
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.dll
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.pdb
+D:\School\TowerDefense\SysProgram\Rectangle\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.genruntimeconfig.cache
